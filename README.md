@@ -37,6 +37,9 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Banco d
   <a href="https://github.com/Luiz-Frederico" target="_blank">
     <img src="https://github.com/Luiz-Frederico.png" width="64" height="64" alt="@Luiz-Frederico" />
   </a>
+  <a href="https://github.com/younmariana-create" target="_blank">
+    <img src="https://github.com/younmariana-create.png" width="64" height="64" alt="@younmariana-create" />
+  </a>
 </p>
 
 ## Passos para Executar da atividade
